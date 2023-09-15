@@ -7,8 +7,6 @@ Este projeto tem como objetivo usar a inteligência artificial para realizar o r
 <img src="nlwia.png" title="NLWIA">
 
 ## Tecnologias usadas:
-- HTML
-- CSS
 - Node.js
 - Integração IA: **OpenAI**
 
